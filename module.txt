@@ -1,0 +1,55 @@
+{
+  "name": "backup-world",
+  "title": "BACKUP",
+  "description": "",
+  "version": "0.3.4",
+  "minimumCoreVersion": "0.7.10",
+  "compatibleCoreVersion": "0.7.10",
+  "esmodules": [],
+  "styles": [],
+  "manifestPlusVersion": "1.0.0",
+  "allowBugReporter": false,
+  "media": [
+    {
+      "type": "cover",
+      "url": "https://foundry.5e.tools/plutonium/cor-cos/cover.webp"
+    }
+  ],
+  "packs": [
+    {
+      "name": "plyer-skill",
+      "label": "Handouts (Curse of Strahd)",
+      "path": "packs/player-skill.db",
+      "module": "backup-world",
+      "system": "dnd5e",
+      "entity": "Compendium"
+    }
+  ],
+  "languages": [],
+  "authors": [
+    "WotC",
+    "Foundry Worlds Creator Team"
+  ],
+  "keywords": [
+    "ravenloft",
+    "horror",
+    "gothic",
+    "vampire"
+  ],
+  "socket": false,
+  "manifest": "aki",
+  "download": "aki",
+    ],
+  "id": "backup-world",
+  "system": "dnd5e",
+  "unavailable": false,
+  "background": "worlds/cor-cos/scenes/backgrounds/Start.webp",
+  "nextSession": "",
+  "availability": 0,
+  "systems": [
+    "dnd5e"
+  ],
+  "minimumSystemVersion": "1.2.4",
+  "compatibleSystemVersion": "1.2.4",
+  "coreVersion": "0.7.10"
+}
