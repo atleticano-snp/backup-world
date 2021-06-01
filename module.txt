@@ -38,7 +38,7 @@
   ],
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/atleticano-snp/backup-world/main/module.txt",
-  "download": "aki",
+  "download": "https://github.com/atleticano-snp/backup-world/archive/refs/heads/main.zip",
     ],
   "id": "backup-world",
   "system": "dnd5e",
