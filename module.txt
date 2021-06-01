@@ -37,7 +37,7 @@
     "vampire"
   ],
   "socket": false,
-  "manifest": "aki",
+  "manifest": "https://raw.githubusercontent.com/atleticano-snp/backup-world/main/module.txt",
   "download": "aki",
     ],
   "id": "backup-world",
