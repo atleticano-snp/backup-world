@@ -17,7 +17,7 @@
   ],
   "packs": [
     {
-      "name": "plyer-skill",
+      "name": "player-skill",
       "label": "Handouts (Curse of Strahd)",
       "path": "packs/player-skill.db",
       "module": "backup-world",
@@ -37,7 +37,7 @@
     "vampire"
   ],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/atleticano-snp/backup-world/main/module.txt",
+  "manifest": "https://raw.githubusercontent.com/atleticano-snp/backup-world/master/module.txt",
   "download": "https://github.com/atleticano-snp/backup-world/archive/refs/heads/main.zip",
     ],
   "id": "backup-world",
